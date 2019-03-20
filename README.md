@@ -4,5 +4,7 @@ Adds "Open with Sublime Text 3" to Windows Explorer context menu for files and f
 
 <img src="https://i.imgur.com/aHvj4vC.png">
 
+___
+
 If you have any questions, or comments please reach out to me on Twitter <a href="https://twitter.com/sultansolutions"> @SultanSolutions </a> 
 
