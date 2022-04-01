@@ -2,7 +2,7 @@
 Adds "Open with Sublime Text 4" to Windows Explorer context menu for files and folders. Save the .bat file to your computer. Then execute the script (as administrator).  
 
 
-<img src="https://i.imgur.com/aHvj4vC.png">
+<img src="https://i.imgur.com/2Oy08WY.png">
 
 ___
 
