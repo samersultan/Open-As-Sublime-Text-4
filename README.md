@@ -1,4 +1,4 @@
-# Open-As-Sublime-Text-3
+# Open-As-Sublime-Text-4
 Adds "Open with Sublime Text 3" to Windows Explorer context menu for files and folders. Save the .bat file to your computer. Then execute the script (as administrator).  
 
 
